@@ -47,8 +47,3 @@ A powerful tool that helps job seekers optimize their resumes by analyzing and m
 4. Matching algorithm application
 5. Results generation and optimization suggestions
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/Job-Description-Matching-and-Resume-Optimization.git
